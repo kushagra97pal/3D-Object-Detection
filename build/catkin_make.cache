@@ -1,0 +1,2 @@
+lidar_detection
+-DCATKIN_DEVEL_PREFIX=/home/hyphen/iassd_catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hyphen/iassd_catkin_ws/install -G Unix Makefiles
